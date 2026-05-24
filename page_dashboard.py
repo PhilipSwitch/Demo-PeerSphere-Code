@@ -4,7 +4,7 @@
 
 import tkinter as tk
 
-from constants import BG, CARD, TEAL, WHITE, MUTED, BORDER, ACCENT_BLUE
+ from constants import BG, CARD, TEAL, WHITE, MUTED, BORDER, ACCENT_BLUE
 
 
 class DashboardPage(tk.Frame):
